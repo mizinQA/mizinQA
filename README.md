@@ -2,7 +2,7 @@
 
 ---
 
-### :man_technologist: Обо мне:
+### :man_technologist: Обо мне
 
 Я начинающий тестировщик, имею практический опыт мануального тестирования сайтов. Изучая рынок IT сфер понял, что желаю развиваться именно в роли тестировщика.
 
@@ -27,7 +27,7 @@
 - [Тест-кейсы](https://docs.google.com/spreadsheets/d/1B2w35Z58RO2hFSykDOfHWUv1VJ1dLZvizQ5hppX24Uw/edit#gid=660569482)
 - [Баг-репорты](https://docs.google.com/spreadsheets/d/1HUmBlcuA8bkbPve6YJx3GmAEcWmRkbr_71PNidd9YhQ/edit#gid=483475341)
 
-### Пройденные курсы:
+### Пройденные курсы
 
 | Курсы                                                           
 | ----------------------------------------------------------------
