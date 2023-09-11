@@ -19,15 +19,15 @@
 ![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=&logoColor=71b556)
 ![Header](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/BrowserStack-090909?style=for-the-badge&logo=browserstack&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/JMeter-090909?style=for-the-badge&logo=jmeter&logoColor=8cc4d7)
 
 ### Тестовая документация
 
 - [Чек-лист](https://docs.google.com/spreadsheets/d/1mlt3XzrXHtjyVTyYSuIP94DiVH7lKB8eYgFylYEXNyo/edit#gid=0)
 - [Тест-кейсы](https://docs.google.com/spreadsheets/d/1B2w35Z58RO2hFSykDOfHWUv1VJ1dLZvizQ5hppX24Uw/edit#gid=660569482)
 - [Баг-репорты](https://docs.google.com/spreadsheets/d/1HUmBlcuA8bkbPve6YJx3GmAEcWmRkbr_71PNidd9YhQ/edit#gid=483475341)
-- [Postman Collections](https://github.com/artichokeee/postman)
 
-<!-### 💻 Пройденные курсы:
+### Пройденные курсы:
 
 | Курсы                                                           
 | ----------------------------------------------------------------
@@ -36,4 +36,3 @@
 | Практичекий курс Николая Кротова, QA обучение профессии тестировщик |
 | Stepik, Тестирование ПО: Postman для тестирования API               |
 
---- -->
