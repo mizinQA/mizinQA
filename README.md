@@ -15,7 +15,7 @@
 
 ### Testing Documentation
 
-- [Checklists]([https://github.com/artichokeee/checklist](https://docs.google.com/spreadsheets/d/1qxTVYdhiCkkz1bdvFzmpPzfUBelAwjrQ8dEbyvEPnKU/edit#gid=422721698))
+- [Checklists](https://docs.google.com/spreadsheets/d/1qxTVYdhiCkkz1bdvFzmpPzfUBelAwjrQ8dEbyvEPnKU/edit#gid=422721698)
 - [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
 - [Bug-Reports](https://github.com/artichokeee/bug-reports)
 - [SQL Queries](https://github.com/artichokeee/SQL)
