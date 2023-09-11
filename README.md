@@ -22,12 +22,12 @@
 
 ### Тестовая документация
 
-- [Чек-лист](https://docs.google.com/spreadsheets/d/1qxTVYdhiCkkz1bdvFzmpPzfUBelAwjrQ8dEbyvEPnKU/edit#gid=422721698)
-- [Тест-кейсы](https://github.com/artichokeee/test-cases)
-- [Баг-репорты](https://github.com/artichokeee/bug-reports)
+- [Чек-лист](https://docs.google.com/spreadsheets/d/1mlt3XzrXHtjyVTyYSuIP94DiVH7lKB8eYgFylYEXNyo/edit#gid=0)
+- [Тест-кейсы](https://docs.google.com/spreadsheets/d/1B2w35Z58RO2hFSykDOfHWUv1VJ1dLZvizQ5hppX24Uw/edit#gid=660569482)
+- [Баг-репорты](https://docs.google.com/spreadsheets/d/1HUmBlcuA8bkbPve6YJx3GmAEcWmRkbr_71PNidd9YhQ/edit#gid=483475341)
 - [Postman Collections](https://github.com/artichokeee/postman)
 
-<!-- ### 💻 Пройденные курсы:
+<!-### 💻 Пройденные курсы:
 
 | Курсы                                                           
 | ----------------------------------------------------------------
