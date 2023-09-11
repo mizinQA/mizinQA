@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Борис</h1>
+<h1 align="center">Привет, меня зовут Борис!</h1>
 <h3 align="center">QA Engineer</h3>
 
 - 👨‍💻 All of my projects are available at [https://docs.google.com/spreadsheets/d/1qxTVYdhiCkkz1bdvFzmpPzfUBelAwjrQ8dEbyvEPnKU/edit#gid=422721698](https://docs.google.com/spreadsheets/d/1qxTVYdhiCkkz1bdvFzmpPzfUBelAwjrQ8dEbyvEPnKU/edit#gid=422721698)
