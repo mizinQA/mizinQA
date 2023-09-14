@@ -7,7 +7,7 @@
 Я начинающий тестировщик, имею практический опыт мануального тестирования. Изучая рынок IT сфер, понял, что желаю развиваться именно в роли тестировщика.
 
 ## Мое резюме
-[Ссылка на резюме](https://drive.google.com/file/d/1EbG6DncbQTy5coYiWbT4iLmp1DiDphQi/view?usp=sharing)
+[Ссылка на резюме](https://drive.google.com/file/d/1YNlDQ9M8eqvWnnx81uLc8g2SQqcjK4_y/view?usp=sharing)
 
 ### Ключевые навыки
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
